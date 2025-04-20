@@ -1,4 +1,4 @@
-# Video Rental System
+# Video Rental System (Check in Master branch)
 
 This project implements a RESTful API for a Video Rental System using Spring Boot and MongoDB, with Basic Authentication and Authorization. It allows users to manage video rentals, including user registration, login, and video management.
 
